@@ -2,6 +2,15 @@
 
 A full-stack Inventory Management System built using **React, FastAPI, PostgreSQL, and Docker**, deployed on cloud platforms.
 
+```markdown
+## ❗ Problem Statement
+
+Managing inventory manually often leads to inefficiencies such as stock mismatches, delayed updates, and lack of real-time visibility.
+
+Small and medium businesses struggle to track product availability, pricing, and stock levels across multiple systems.
+
+This project aims to solve these issues by building a centralized Inventory Management System that provides real-time product tracking, API-based architecture, and cloud deployment for scalability.
+
 ---
 
 ## 🚀 Live Links
