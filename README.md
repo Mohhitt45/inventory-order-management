@@ -1,3 +1,6 @@
+<img width="1366" height="768" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/44d0a7a9-5e18-4e5e-9fd3-f6b57b133f2f" />
+<img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/2a4dcedd-b3ba-4917-81a1-f8deee7acbbc" />
+<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/bb397d4e-99fe-4764-88e2-6ec551fb0134" />
 # 📦 Inventory Order Management System
 
 A full-stack Inventory Management System built with **React**, **FastAPI**, **PostgreSQL**, and **Docker** — deployed on cloud platforms for real-time stock tracking and order management.
