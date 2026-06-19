@@ -7,7 +7,7 @@ function Products() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const res = await api.get("/products/");
+        const res = await api.get("/products");
         console.log("DATA:", res.data);
         setProducts(res.data);
       } catch (err) {
