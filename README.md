@@ -15,8 +15,9 @@ This project solves these issues by building a centralized Inventory Management 
 ✅ API-based architecture for easy integration
 ✅ Cloud deployment for scalability and availability
 ---
-🚀 Live Links
-Service	Link
+**🚀 Live Links
+
+**Service	Link
 🌐 Frontend (Vercel)	inventory-order-management-lyart.vercel.app
 ⚙️ Backend API (Render)	inventory-order-management-etq7.onrender.com
 🐳 Docker Hub	mohhitt45/inventory-backend
