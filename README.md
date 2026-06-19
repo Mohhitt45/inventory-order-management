@@ -2,7 +2,6 @@
 📦 Inventory Order Management System
 A full-stack Inventory Management System built with \*\*React\*\*, \*\*FastAPI\*\*, \*\*PostgreSQL\*\*, and \*\*Docker\*\* — deployed on cloud platforms for real-time stock tracking and order management.
 ---
----
 🚨 Problem Statement
 
 Managing inventory manually often leads to inefficiencies such as stock mismatches, delayed updates, and lack of real-time visibility.
@@ -14,15 +13,15 @@ This project solves these issues by building a centralized Inventory Management 
 ✅ Real-time product tracking
 ✅ API-based architecture for easy integration
 ✅ Cloud deployment for scalability and availability
----
-**🚀 Live Links
 
-**Service	Link
+🚀 Live Links
+
+Service	Link
 🌐 Frontend (Vercel)	inventory-order-management-lyart.vercel.app
 ⚙️ Backend API (Render)	inventory-order-management-etq7.onrender.com
 🐳 Docker Hub	mohhitt45/inventory-backend
 📁 GitHub Repo	Mohhitt45/inventory-order-management
----
+
 🧩 Features
 📋 Product listing with SKU, price, and stock levels
 ⚡ RESTful APIs built with FastAPI
@@ -30,13 +29,13 @@ This project solves these issues by building a centralized Inventory Management 
 🐳 Dockerized backend for consistent deployment
 📱 Responsive frontend using React + Bootstrap
 ☁️ Fully deployed on cloud (Vercel + Render)
----
+
 🏗️ Tech Stack
 Layer	Technologies
 Frontend	React.js, Vite, Axios, Bootstrap
 Backend	FastAPI, SQLAlchemy, PostgreSQL (Neon), Uvicorn
 DevOps	Docker, Docker Hub, Render, Vercel
----
+
 📁 Project Structure
 ```
 inventory-order-management/
