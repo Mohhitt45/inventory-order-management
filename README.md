@@ -1,10 +1,10 @@
 ---
 📦 Inventory Order Management System
-> A full-stack Inventory Management System built with \*\*React\*\*, \*\*FastAPI\*\*, \*\*PostgreSQL\*\*, and \*\*Docker\*\* — deployed on cloud platforms for real-time stock tracking and order management.
+A full-stack Inventory Management System built with \*\*React\*\*, \*\*FastAPI\*\*, \*\*PostgreSQL\*\*, and \*\*Docker\*\* — deployed on cloud platforms for real-time stock tracking and order management.
 ---
 🚨 Problem Statement
 Managing inventory manually often leads to inefficiencies such as stock mismatches, delayed updates, and lack of real-time visibility.
-Small and medium businesses struggle to track product availability, pricing, and stock levels across multiple systems.
+Small and medium businesses struggle to track product availability, pricing, and stock levels across multiple systems.'
 This project solves these issues by building a centralized Inventory Management System that provides:
 ✅ Real-time product tracking
 ✅ API-based architecture for easy integration
