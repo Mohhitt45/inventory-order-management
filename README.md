@@ -170,4 +170,7 @@ FastAPI provides auto-generated interactive API docs:
 ---
 
 ⭐ If this project helped you, please give it a star on GitHub!<img width="1040" height="382" alt="WhatsApp Image 2026-06-19 at 3 00 17 AM" src="https://github.com/user-attachments/assets/e64f2553-5d2a-4ea6-895e-9c650b525ead" />
+<img width="1366" height="768" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/c3545224-3ab2-430f-acc2-99b5eba97854" />
+<img width="1366" height="768" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/8cf58dae-dd77-48e5-8b92-21da0d8adfb9" />
+<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/2a576398-ef96-4208-ba46-0937079c9d67" />
 
