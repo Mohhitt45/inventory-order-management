@@ -19,7 +19,9 @@ Base.metadata.create_all(bind=engine)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "http://localhost:5173"
+        "http://localhost:5173",
+        "https://inventory-order-management-lyart.vercel.app",
+
     ],
     allow_credentials=True,
     allow_methods=["*"],
