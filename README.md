@@ -259,13 +259,22 @@ npm run dev
 ## 📸 Screenshots
 
 ### AI Assistant
-> _(Add screenshot here)_
+
+![AI Assistant 1](screenshots/ai-assistant_1.png)
+
+![AI Assistant 2](screenshots/ai-assistant_2.png)
 
 ### Swagger API Documentation
-> _(Add screenshot here)_
+
+![Swagger Docs](screenshots/swagger-docs.png)
+
 
 ### Inventory Dashboard
-> _(Add screenshot here)_
+
+![Inventory Dashboard 1](screenshots/inventory-dashboard_1.png)
+
+![Inventory Dashboard 2](screenshots/inventory-dashboard_2.png)
+
 
 ---
 
