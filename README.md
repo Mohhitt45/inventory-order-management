@@ -256,6 +256,49 @@ npm run dev
 
 ---
 
+## 🐳 Docker Setup
+
+The application can be run locally using Docker Compose.
+
+### Run with Docker Compose
+
+Make sure Docker Desktop is running.
+
+Create backend environment file:
+```
+backend/.env
+```
+
+Add required environment variables:
+```env
+DATABASE_URL=your_database_url
+GROQ_API_KEY=your_groq_api_key
+```
+
+Build and start containers:
+```bash
+docker compose up --build
+```
+
+**Application URLs**
+
+Frontend:
+```
+http://localhost:5173
+```
+
+Backend API:
+```
+http://localhost:10000
+```
+
+Swagger Documentation:
+```
+http://localhost:10000/docs
+```
+
+---
+
 ## 📸 Screenshots
 
 ### AI Assistant
@@ -274,7 +317,6 @@ npm run dev
 ![Inventory Dashboard 1](screenshots/inventory-dashboard_1.png)
 
 ![Inventory Dashboard 2](screenshots/inventory-dashboard_2.png)
-
 
 ---
 
