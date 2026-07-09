@@ -1,3 +1,6 @@
+from dotenv import load_dotenv
+load_dotenv()
+
 from pydantic import BaseModel
 from app.ai.agent import chat_with_ai
 from fastapi import FastAPI

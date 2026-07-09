@@ -1,5 +1,6 @@
-from langchain_ollama import ChatOllama
+from langchain_groq import ChatGroq
 from langchain.agents import create_agent
+import os
 
 from app.ai.tools import (
     get_low_stock_products,
@@ -11,9 +12,10 @@ from app.ai.tools import (
 )
 
 
-llm = ChatOllama(
-    model="llama3.2",
-    temperature=0
+llm = ChatGroq(
+    model="llama-3.3-70b-versatile",
+    temperature=0,
+    api_key=os.getenv("GROQ_API_KEY")
 )
 
 
